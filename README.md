@@ -1,11 +1,23 @@
 # General-Knowledge-Questions_sooonai
 
 
-notion link:
-https://www.notion.so/239536f12b1780d0906fe6789f619ee6?v=239536f12b17811cbfcb000cffdb29d7&source=copy_link
+## Notion 链接:
 
+[素问常识题收集表](https://www.notion.so/239536f12b1780d0906fe6789f619ee6?v=239536f12b17811cbfcb000cffdb29d7&source=copy_link)
 
+[常识题统计汇总](https://www.notion.so/239536f12b178092a942d316697fb815?source=copy_link)
 
+## 最近更新
+
+- **2025.07.23**:新增常识题统计汇总表格，统计不同类别常识题数量以及掌握百分比情况。
+  
+
+- **2025.07.22**:基于素问社区朋友分享的[文档](https://docs.qq.com/sheet/DR01mcEpwek1IYkFX?tab=BB08J2)，创建素问常识题收集表Notion版，新增‘是否掌握’属性，可搭配Notion页面内功能灵活阅题。
+
+## 使用方法
+
+- 复制数据库到自己的工作空间里
+- 点击数据库右上角的filter图标，选择‘是否掌握’属性，选择‘Unchecked’，开始浏览题目，已经check的题目会自动过滤
 
 <details>
 <summary> 关于如何科学上网：</summary>
