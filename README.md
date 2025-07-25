@@ -11,7 +11,7 @@
 
 - **2025.07.24**: 新增属性‘解释’、‘参考链接’、‘难度级别’、‘相似问题’。[示例1](./pic/增加属性.jpg)，[示例2](./pic/利用‘相关问题’属性关联类似问题.jpg) 
   
-     征得作者同意，开始收录‘[常识好题](https://www.zhihu.com/people/li-zong-kun-14-71/posts)’、‘[好题集](https://www.zhihu.com/people/28-31-48-9)’。
+     征得作者同意，开始收录‘[常识好题](https://www.zhihu.com/people/li-zong-kun-14-71/posts)’、‘[好题集](https://www.zhihu.com/people/28-31-48-9)’、‘[常识题集锦](https://www.zhihu.com/people/tan-chang-9-77/posts)’。
 
 - **2025.07.23**: 新增常识题统计汇总表格，统计不同类别常识题数量以及掌握百分比情况。
   [常识题统计汇总](./pic/常识题统计汇总.jpg)
