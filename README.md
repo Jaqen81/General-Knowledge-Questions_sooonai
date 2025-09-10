@@ -17,9 +17,10 @@
 <p align="center">
 <img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A.png" width="50%" height="50%">
 </p>
+
 - **2025.07.24**: 新增属性‘解释’、‘难度级别’、‘相似问题’。[示例1](./pic/增加属性.jpg)，[示例2](./pic/利用‘相关问题’属性关联类似问题.jpg) 
   
-     征得作者同意，开始收录‘[常识好题](https://www.zhihu.com/people/li-zong-kun-14-71/posts)’、‘[好题集](https://www.zhihu.com/people/28-31-48-9)’、‘[常识题集锦](https://www.zhihu.com/people/tan-chang-9-77/posts)’。
+     征得作者同意，开始收录‘[常识好题](https://www.zhihu.com/people/li-zong-kun-14-71/posts)’、‘[好题集](https://www.zhihu.com/people/28-31-48-9)’、‘[常识题集锦](https://www.zhihu.com/people/tan-chang-9-77/posts)’中的题目以及答案解析。
 
 - **2025.07.23**: 新增常识题统计汇总表格，统计不同类别常识题数量以及掌握百分比情况。
 <p align="center">
