@@ -15,7 +15,7 @@
 - **2025.08.09**: 常识题题库总数达到2000题。
 - **2025.08.06**: 新增图表‘一期一会’，同期题目按期数分组排列，组内题目按答案相关性排序。
 <p align="center">
-<img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A.png" width="50%" height="50%">
+<img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A2.png" width="50%" height="50%">
 </p>
 
 - **2025.07.24**: 新增属性‘解释’、‘难度级别’、‘相似问题’。[示例1](./pic/增加属性.jpg)，[示例2](./pic/利用‘相关问题’属性关联类似问题.jpg) 
