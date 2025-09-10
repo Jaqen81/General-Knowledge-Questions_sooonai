@@ -7,7 +7,7 @@
 
 [常识题统计汇总](https://www.notion.so/239536f12b178092a942d316697fb815?source=copy_link)
 
-## 最近更新
+## 最近更新：
 - **2025.09.10**: 有答案解析的常识题数量超过300题。
 
 <img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/%E9%83%A8%E5%88%86%E8%A7%A3%E9%87%8A1.png" width="50%" height="50%"><img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/%E9%83%A8%E5%88%86%E8%A7%A3%E9%87%8A2.png" width="50%" height="50%"><img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/%E9%83%A8%E5%88%86%E8%A7%A3%E9%87%8A1.png" width="50%" height="50%">
