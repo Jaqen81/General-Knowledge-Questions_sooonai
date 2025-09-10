@@ -8,19 +8,26 @@
 [常识题统计汇总](https://www.notion.so/239536f12b178092a942d316697fb815?source=copy_link)
 
 ## 最近更新
-- **2025.09.10**: 有答案解析的常识题数量超过300题。[答案解析](./pic/解释.png)
+- **2025.09.10**: 有答案解析的常识题数量超过300题。
+
+<img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/%E9%83%A8%E5%88%86%E8%A7%A3%E9%87%8A1.png" width="500px"><img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/%E9%83%A8%E5%88%86%E8%A7%A3%E9%87%8A2.png" width="500px"><img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/%E9%83%A8%E5%88%86%E8%A7%A3%E9%87%8A1.png" width="510px">
+
 - **2025.08.09**: 常识题题库总数达到2000题。
-- **2025.08.06**: 新增图表‘一期一会’，同期题目按期数分组排列，组内题目按答案相关性排序。[一期一会](./pic/一期一会.png)
+- **2025.08.06**: 新增图表‘一期一会’，同期题目按期数分组排列，组内题目按答案相关性排序。
+
+<img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A.png" height="300px">
 
 - **2025.07.24**: 新增属性‘解释’、‘难度级别’、‘相似问题’。[示例1](./pic/增加属性.jpg)，[示例2](./pic/利用‘相关问题’属性关联类似问题.jpg) 
   
      征得作者同意，开始收录‘[常识好题](https://www.zhihu.com/people/li-zong-kun-14-71/posts)’、‘[好题集](https://www.zhihu.com/people/28-31-48-9)’、‘[常识题集锦](https://www.zhihu.com/people/tan-chang-9-77/posts)’。
 
 - **2025.07.23**: 新增常识题统计汇总表格，统计不同类别常识题数量以及掌握百分比情况。
-  [常识题统计汇总](./pic/常识题统计汇总.jpg)
+ <img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/cs.png" height="300px">
 
-- **2025.07.22**: 基于素问社区朋友分享的[文档](https://docs.qq.com/sheet/DR01mcEpwek1IYkFX?tab=BB08J2)，创建素问常识题收集表Notion版，新增‘是否掌握’属性，可搭配Notion页面内功能灵活阅题。
-  [素问常识题收集表](./pic/素问常识题收集表.jpg)
+
+- **2025.07.22**: 基于素问社区朋友分享的[文档](https://docs.qq.com/sheet/DR01mcEpwek1IYkFX?tab=BB08J2)，创建素问常识题收集表Notion版，新增‘是否掌握’属性，可搭配Notion页面内功能灵活阅题。动图展示如下，在‘是否掌握’栏下勾选，题目会自动分组到‘已掌握’组，并显示当前分组数量。
+<img src="https://github.com/Jaqen81/General-Knowledge-Questions_sooonai/blob/main/pic/ckkkk.gif" height="500px"> 
+
 
 ## 使用方法
 
